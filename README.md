@@ -1,2 +1,2 @@
 # ELEN423
-Embedded Systems Homework
+This is a homework assignment for my embedded systems class.
